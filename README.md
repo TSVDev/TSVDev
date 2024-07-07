@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Discord Bots & Home Server Management!
 - 📫 How to reach me @thesecurityvault via Discord or tsv.inquiry@gmail.com!
 - 😄 Pronouns: He/Him!
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I have more information at https://tsvdev.carrd.co/
 
 <!---
 TSVDev/TSVDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
